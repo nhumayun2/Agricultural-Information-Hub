@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Maize",
+    "image": "/crop_details/maize.jpeg",
+    "season": "Kharif (June to September)",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Downy Mildew", "Leaf Blight", "Rust"],
+    "tips": [
+      "Ensure timely sowing for optimal yield",
+      "Apply nitrogen fertilizer in split doses",
+      "Implement crop rotation to prevent disease buildup"
+    ]
+  },
+  {
+    "name": "Barley",
+    "image": "/crop_details/Barley.jpg",
+    "season": "Rabi (November to April)",
+    "soil": "Sandy loam to loamy soil",
+    "diseases": ["Powdery Mildew", "Rust", "Loose Smut"],
+    "tips": [
+      "Use disease-resistant varieties",
+      "Avoid excessive irrigation",
+      "Apply balanced fertilizers"
+    ]
+  },
+  {
+    "name": "Sorghum",
+    "image": "/crop_details/Sorghum.jpg",
+    "season": "Kharif (June to September)",
+    "soil": "Well-drained sandy loam",
+    "diseases": ["Anthracnose", "Downy Mildew", "Smut"],
+    "tips": [
+      "Plant early to escape drought",
+      "Use certified seeds",
+      "Practice crop rotation"
+    ]
+  },
+  {
+    "name": "Millet",
+    "image": "/crop_details/Millet.jpg",
+    "season": "Kharif (June to September)",
+    "soil": "Light loamy to sandy soil",
+    "diseases": ["Blast", "Downy Mildew", "Rust"],
+    "tips": [
+      "Ensure proper field drainage",
+      "Apply organic manures",
+      "Control weeds early"
+    ]
+  },
+  {
+    "name": "Sugarcane",
+    "image": "/crop_details/Sugarcane.jpg",
+    "season": "Planting: February to March; Harvesting: November to December",
+    "soil": "Deep, fertile loamy soil",
+    "diseases": ["Red Rot", "Smut", "Wilt"],
+    "tips": [
+      "Use healthy setts for planting",
+      "Maintain proper irrigation",
+      "Control pests and diseases timely"
+    ]
+  },
+  {
+    "name": "Cotton",
+    "image": "/crop_details/Cotton.jpg",
+    "season": "Kharif (June to October)",
+    "soil": "Black cotton soil or alluvial soil",
+    "diseases": ["Bacterial Blight", "Wilt", "Leaf Curl Virus"],
+    "tips": [
+      "Use Bt cotton varieties",
+      "Implement integrated pest management",
+      "Avoid waterlogging"
+    ]
+  },
+  {
+    "name": "Groundnut",
+    "image": "/crop_details/Groundnut.jpg",
+    "season": "Kharif (June to September)",
+    "soil": "Sandy loam to loamy soil",
+    "diseases": ["Leaf Spot", "Rust", "Collar Rot"],
+    "tips": [
+      "Use treated seeds",
+      "Apply gypsum at flowering stage",
+      "Ensure proper drainage"
+    ]
+  },
+  {
+    "name": "Soybean",
+    "image": "/crop_details/Soybean.jpg",
+    "season": "Kharif (June to September)",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Rust", "Downy Mildew", "Root Rot"],
+    "tips": [
+      "Use high-yielding varieties",
+      "Apply phosphorus and potassium fertilizers",
+      "Control weeds early"
+    ]
+  },
+  {
+    "name": "Mustard",
+    "image": "/crop_details/Mustard.jpg",
+    "season": "Rabi (October to February)",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["White Rust", "Alternaria Blight", "Downy Mildew"],
+    "tips": [
+      "Sow at proper depth",
+      "Apply balanced fertilizers",
+      "Control aphids timely"
+    ]
+  },
+  {
+    "name": "Sunflower",
+    "image": "/crop_details/Sunflower.jpg",
+    "season": "Kharif and Rabi seasons",
+    "soil": "Well-drained sandy loam",
+    "diseases": ["Downy Mildew", "Rust", "Alternaria Blight"],
+    "tips": [
+      "Ensure adequate sunlight",
+      "Apply nitrogen and phosphorus fertilizers",
+      "Protect from bird damage"
+    ]
+  },
+  {
+    "name": "Potato",
+    "image": "/crop_details/Potato.jpeg",
+    "season": "Rabi (October to March)",
+    "soil": "Well-drained sandy loam",
+    "diseases": ["Late Blight", "Early Blight", "Black Scurf"],
+    "tips": [
+      "Use certified seed tubers",
+      "Maintain proper spacing",
+      "Avoid water stagnation"
+    ]
+  },
+  {
+    "name": "Tomato",
+    "image": "/crop_details/Tomato.jpg",
+    "season": "Rabi and Kharif seasons",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Early Blight", "Late Blight", "Leaf Curl Virus"],
+    "tips": [
+      "Stake plants to support growth",
+      "Apply mulching to conserve moisture",
+      "Control pests regularly"
+    ]
+  },
+  {
+    "name": "Onion",
+    "image": "/crop_details/Onion.jpg",
+    "season": "Rabi (October to April)",
+    "soil": "Fertile loamy soil",
+    "diseases": ["Purple Blotch", "Downy Mildew", "Basal Rot"],
+    "tips": [
+      "Use well-cured bulbs for planting",
+      "Avoid overhead irrigation",
+      "Harvest at proper maturity"
+    ]
+  },
+  {
+    "name": "Garlic",
+    "image": "/crop_details/Garlic.jpg",
+    "season": "Rabi (October to March)",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["White Rot", "Rust", "Downy Mildew"],
+    "tips": [
+      "Plant cloves at proper depth",
+      "Ensure weed-free fields",
+      "Avoid waterlogging"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "image": "/crop_details/Carrot.jpg",
+    "season": "Rabi (October to February)",
+    "soil": "Sandy loam to loamy soil",
+    "diseases": [
+      "Alternaria Leaf Blight",
+      "Powdery Mildew",
+      "Root Knot Nematode"
+    ],
+    "tips": [
+      "Thin seedlings to proper spacing",
+      "Maintain consistent moisture",
+      "Harvest at appropriate size"
+    ]
+  },
+  {
+    "name": "Cabbage",
+    "image": "/crop_details/Cabbage.jpg",
+    "season": "Rabi (October to February)",
+    "soil": "Fertile loamy soil",
+    "diseases": ["Black Rot", "Downy Mildew", "Clubroot"],
+    "tips": [
+      "Use disease-free seedlings",
+      "Apply nitrogen fertilizers",
+      "Control aphids and caterpillars"
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "image": "/crop_details/Cauliflower.jpg",
+    "season": "Rabi (October to February)",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Black Rot", "Downy Mildew", "Clubroot"],
+    "tips": [
+      "Maintain optimal temperature",
+      "Apply boron to prevent disorders",
+      "Protect curds from sun exposure"
+    ]
+  },
+  {
+    "name": "Brinjal",
+    "image": "/crop_details/Brinjal.jpg",
+    "season": "Kharif and Rabi seasons",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Bacterial Wilt", "Phomopsis Blight", "Little Leaf Disease"],
+    "tips": [
+      "Use resistant varieties",
+      "Apply organic manures",
+      "Control shoot and fruit borers"
+    ]
+  },
+  {
+    "name": "Chili",
+    "image": "/crop_details/Chili.jpeg",
+    "season": "Kharif and Rabi seasons",
+    "soil": "Well-drained loamy soil",
+    "diseases": ["Anthracnose", "Leaf Curl Virus", "Powdery Mildew"],
+    "tips": [
+      "Use healthy seedlings",
+      "Apply balanced fertilizers",
+      "Control thrips and mites"
+    ]
+  },
+  {
+    "name": "Okra",
+    "image": "/crop_details/Okra.jpg",
+    "season": "Kharif (June to September)",
+    "soil": "Well-drained sandy loam",
+    "diseases": ["Yellow Vein Mosaic Virus", "Powdery Mildew", "Root Rot"],
+    "tips": [
+      "Sow seeds at proper spacing",
+      "Apply organic mulches",
+      "Harvest tender pods regularly"
+    ]
+  }
+]

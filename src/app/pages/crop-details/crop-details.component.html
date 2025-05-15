@@ -1,13 +1,50 @@
 <div class="p-4">
-  <button 
-    (click)="toggleCategories()" 
-    class="bg-green-600 text-white px-4 py-2 rounded shadow hover:bg-green-700">
-    {{ showCategories ? 'Hide' : 'Show' }} Crop Categories
-  </button>
+  <div class="mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div
+      data-aos="flip-left"
+      data-aos-delay="400"
+      *ngFor="let crop of crops"
+      class="bg-white rounded-2xl shadow-lg p-6 border border-green-200 hover:shadow-xl transition duration-300"
+    >
+      <img
+        [src]="crop.image"
+        alt="{{ crop.name }}"
+        class="w-full h-48 object-cover rounded-xl mb-4"
+      />
+      <h2 class="text-xl font-bold text-green-700 mb-2">🌾 {{ crop.name }}</h2>
 
-  <div *ngIf="showCategories" class="mt-4 space-y-2">
-    <p *ngFor="let crop of cropCategories" class="p-3 bg-green-100 rounded shadow">
-      🌾 {{ crop }}
-    </p>
+      <div class="text-sm text-gray-700 space-y-1">
+        <p>
+          <span class="font-semibold text-green-600">Season:</span>
+          {{ crop.season }}
+        </p>
+        <p>
+          <span class="font-semibold text-green-600">Soil:</span>
+          {{ crop.soil }}
+        </p>
+        <p>
+          <span class="font-semibold text-green-600">Diseases:</span>
+          <span *ngIf="crop.diseases?.length; else noDisease">
+            <ul class="list-disc list-inside">
+              <li *ngFor="let disease of crop.diseases">{{ disease }}</li>
+            </ul>
+          </span>
+          <ng-template #noDisease
+            ><span class="text-gray-500">None</span></ng-template
+          >
+        </p>
+        <p>
+          <span class="font-semibold text-green-600">Tips:</span>
+          <span *ngIf="crop.tips?.length; else noTips">
+            <ul class="list-disc list-inside">
+              <li *ngFor="let tip of crop.tips">{{ tip }}</li>
+            </ul>
+          </span>
+          <ng-template #noTips
+            ><span class="text-gray-500">No tips available</span></ng-template
+          >
+        </p>
+      </div>
+    </div>
   </div>
 </div>
