@@ -1,0 +1,13 @@
+<div class="p-4">
+  <button 
+    (click)="toggleCategories()" 
+    class="bg-green-600 text-white px-4 py-2 rounded shadow hover:bg-green-700">
+    {{ showCategories ? 'Hide' : 'Show' }} Crop Categories
+  </button>
+
+  <div *ngIf="showCategories" class="mt-4 space-y-2">
+    <p *ngFor="let crop of cropCategories" class="p-3 bg-green-100 rounded shadow">
+      🌾 {{ crop }}
+    </p>
+  </div>
+</div>
