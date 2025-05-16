@@ -1,1 +1,38 @@
-<p>pest-control works!</p>
+<div class="p-4">
+    <div class="mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div *ngFor="let pest of pestData" data-aos="fade-up" data-aos-delay="300"
+            class="bg-white rounded-2xl shadow-lg p-6 border border-red-200 hover:shadow-xl transition duration-300">
+            <img [src]="pest.image" alt="{{ pest.name }}" class="w-full h-48 object-cover rounded-xl mb-4" />
+            <h2 class="text-xl font-bold text-red-700 mb-2">🐛 {{ pest.name }}</h2>
+
+            <div class="text-sm text-gray-700 space-y-1">
+                <p>
+                    <span class="font-semibold text-red-600">Effect:</span>
+                    {{ pest.effect }}
+                </p>
+                <p>
+                    <span class="font-semibold text-red-600">Natural Control:</span>
+                    <span *ngIf="pest.naturalControl?.length; else noNatural">
+                        <ul class="list-disc list-inside">
+                            <li *ngFor="let method of pest.naturalControl">{{ method }}</li>
+                        </ul>
+                    </span>
+                    <ng-template #noNatural>
+                        <span class="text-gray-500">No natural methods listed</span>
+                    </ng-template>
+                </p>
+                <p>
+                    <span class="font-semibold text-red-600">Chemical Control:</span>
+                    <span *ngIf="pest.chemicalControl?.length; else noChemical">
+                        <ul class="list-disc list-inside">
+                            <li *ngFor="let chem of pest.chemicalControl">{{ chem }}</li>
+                        </ul>
+                    </span>
+                    <ng-template #noChemical>
+                        <span class="text-gray-500">No chemical methods listed</span>
+                    </ng-template>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

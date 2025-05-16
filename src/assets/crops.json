@@ -4,7 +4,11 @@
     "image": "/crop_details/maize.jpeg",
     "season": "Kharif (June to September)",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Downy Mildew", "Leaf Blight", "Rust"],
+    "diseases": [
+      "Downy Mildew",
+      "Leaf Blight",
+      "Rust"
+    ],
     "tips": [
       "Ensure timely sowing for optimal yield",
       "Apply nitrogen fertilizer in split doses",
@@ -16,7 +20,11 @@
     "image": "/crop_details/Barley.jpg",
     "season": "Rabi (November to April)",
     "soil": "Sandy loam to loamy soil",
-    "diseases": ["Powdery Mildew", "Rust", "Loose Smut"],
+    "diseases": [
+      "Powdery Mildew",
+      "Rust",
+      "Loose Smut"
+    ],
     "tips": [
       "Use disease-resistant varieties",
       "Avoid excessive irrigation",
@@ -28,7 +36,11 @@
     "image": "/crop_details/Sorghum.jpg",
     "season": "Kharif (June to September)",
     "soil": "Well-drained sandy loam",
-    "diseases": ["Anthracnose", "Downy Mildew", "Smut"],
+    "diseases": [
+      "Anthracnose",
+      "Downy Mildew",
+      "Smut"
+    ],
     "tips": [
       "Plant early to escape drought",
       "Use certified seeds",
@@ -40,7 +52,11 @@
     "image": "/crop_details/Millet.jpg",
     "season": "Kharif (June to September)",
     "soil": "Light loamy to sandy soil",
-    "diseases": ["Blast", "Downy Mildew", "Rust"],
+    "diseases": [
+      "Blast",
+      "Downy Mildew",
+      "Rust"
+    ],
     "tips": [
       "Ensure proper field drainage",
       "Apply organic manures",
@@ -52,7 +68,11 @@
     "image": "/crop_details/Sugarcane.jpg",
     "season": "Planting: February to March; Harvesting: November to December",
     "soil": "Deep, fertile loamy soil",
-    "diseases": ["Red Rot", "Smut", "Wilt"],
+    "diseases": [
+      "Red Rot",
+      "Smut",
+      "Wilt"
+    ],
     "tips": [
       "Use healthy setts for planting",
       "Maintain proper irrigation",
@@ -64,7 +84,11 @@
     "image": "/crop_details/Cotton.jpg",
     "season": "Kharif (June to October)",
     "soil": "Black cotton soil or alluvial soil",
-    "diseases": ["Bacterial Blight", "Wilt", "Leaf Curl Virus"],
+    "diseases": [
+      "Bacterial Blight",
+      "Wilt",
+      "Leaf Curl Virus"
+    ],
     "tips": [
       "Use Bt cotton varieties",
       "Implement integrated pest management",
@@ -76,7 +100,11 @@
     "image": "/crop_details/Groundnut.jpg",
     "season": "Kharif (June to September)",
     "soil": "Sandy loam to loamy soil",
-    "diseases": ["Leaf Spot", "Rust", "Collar Rot"],
+    "diseases": [
+      "Leaf Spot",
+      "Rust",
+      "Collar Rot"
+    ],
     "tips": [
       "Use treated seeds",
       "Apply gypsum at flowering stage",
@@ -88,7 +116,11 @@
     "image": "/crop_details/Soybean.jpg",
     "season": "Kharif (June to September)",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Rust", "Downy Mildew", "Root Rot"],
+    "diseases": [
+      "Rust",
+      "Downy Mildew",
+      "Root Rot"
+    ],
     "tips": [
       "Use high-yielding varieties",
       "Apply phosphorus and potassium fertilizers",
@@ -100,7 +132,11 @@
     "image": "/crop_details/Mustard.jpg",
     "season": "Rabi (October to February)",
     "soil": "Well-drained loamy soil",
-    "diseases": ["White Rust", "Alternaria Blight", "Downy Mildew"],
+    "diseases": [
+      "White Rust",
+      "Alternaria Blight",
+      "Downy Mildew"
+    ],
     "tips": [
       "Sow at proper depth",
       "Apply balanced fertilizers",
@@ -112,7 +148,11 @@
     "image": "/crop_details/Sunflower.jpg",
     "season": "Kharif and Rabi seasons",
     "soil": "Well-drained sandy loam",
-    "diseases": ["Downy Mildew", "Rust", "Alternaria Blight"],
+    "diseases": [
+      "Downy Mildew",
+      "Rust",
+      "Alternaria Blight"
+    ],
     "tips": [
       "Ensure adequate sunlight",
       "Apply nitrogen and phosphorus fertilizers",
@@ -124,7 +164,11 @@
     "image": "/crop_details/Potato.jpeg",
     "season": "Rabi (October to March)",
     "soil": "Well-drained sandy loam",
-    "diseases": ["Late Blight", "Early Blight", "Black Scurf"],
+    "diseases": [
+      "Late Blight",
+      "Early Blight",
+      "Black Scurf"
+    ],
     "tips": [
       "Use certified seed tubers",
       "Maintain proper spacing",
@@ -136,7 +180,11 @@
     "image": "/crop_details/Tomato.jpg",
     "season": "Rabi and Kharif seasons",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Early Blight", "Late Blight", "Leaf Curl Virus"],
+    "diseases": [
+      "Early Blight",
+      "Late Blight",
+      "Leaf Curl Virus"
+    ],
     "tips": [
       "Stake plants to support growth",
       "Apply mulching to conserve moisture",
@@ -148,7 +196,11 @@
     "image": "/crop_details/Onion.jpg",
     "season": "Rabi (October to April)",
     "soil": "Fertile loamy soil",
-    "diseases": ["Purple Blotch", "Downy Mildew", "Basal Rot"],
+    "diseases": [
+      "Purple Blotch",
+      "Downy Mildew",
+      "Basal Rot"
+    ],
     "tips": [
       "Use well-cured bulbs for planting",
       "Avoid overhead irrigation",
@@ -160,7 +212,11 @@
     "image": "/crop_details/Garlic.jpg",
     "season": "Rabi (October to March)",
     "soil": "Well-drained loamy soil",
-    "diseases": ["White Rot", "Rust", "Downy Mildew"],
+    "diseases": [
+      "White Rot",
+      "Rust",
+      "Downy Mildew"
+    ],
     "tips": [
       "Plant cloves at proper depth",
       "Ensure weed-free fields",
@@ -188,7 +244,11 @@
     "image": "/crop_details/Cabbage.jpg",
     "season": "Rabi (October to February)",
     "soil": "Fertile loamy soil",
-    "diseases": ["Black Rot", "Downy Mildew", "Clubroot"],
+    "diseases": [
+      "Black Rot",
+      "Downy Mildew",
+      "Clubroot"
+    ],
     "tips": [
       "Use disease-free seedlings",
       "Apply nitrogen fertilizers",
@@ -200,7 +260,11 @@
     "image": "/crop_details/Cauliflower.jpg",
     "season": "Rabi (October to February)",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Black Rot", "Downy Mildew", "Clubroot"],
+    "diseases": [
+      "Black Rot",
+      "Downy Mildew",
+      "Clubroot"
+    ],
     "tips": [
       "Maintain optimal temperature",
       "Apply boron to prevent disorders",
@@ -212,7 +276,11 @@
     "image": "/crop_details/Brinjal.jpg",
     "season": "Kharif and Rabi seasons",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Bacterial Wilt", "Phomopsis Blight", "Little Leaf Disease"],
+    "diseases": [
+      "Bacterial Wilt",
+      "Phomopsis Blight",
+      "Little Leaf Disease"
+    ],
     "tips": [
       "Use resistant varieties",
       "Apply organic manures",
@@ -224,7 +292,11 @@
     "image": "/crop_details/Chili.jpeg",
     "season": "Kharif and Rabi seasons",
     "soil": "Well-drained loamy soil",
-    "diseases": ["Anthracnose", "Leaf Curl Virus", "Powdery Mildew"],
+    "diseases": [
+      "Anthracnose",
+      "Leaf Curl Virus",
+      "Powdery Mildew"
+    ],
     "tips": [
       "Use healthy seedlings",
       "Apply balanced fertilizers",
@@ -236,7 +308,11 @@
     "image": "/crop_details/Okra.jpg",
     "season": "Kharif (June to September)",
     "soil": "Well-drained sandy loam",
-    "diseases": ["Yellow Vein Mosaic Virus", "Powdery Mildew", "Root Rot"],
+    "diseases": [
+      "Yellow Vein Mosaic Virus",
+      "Powdery Mildew",
+      "Root Rot"
+    ],
     "tips": [
       "Sow seeds at proper spacing",
       "Apply organic mulches",
