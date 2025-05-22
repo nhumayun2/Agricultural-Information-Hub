@@ -1,132 +1,84 @@
 [
-    {
-        "name": "Brown Planthopper",
-        "image": "/assets/images/brown-planthopper.jpg",
-        "effect": "Sucks sap from rice causing hopper burn",
-        "naturalControl": [
-            "Avoid over-fertilization",
-            "Encourage spiders"
-        ],
-        "chemicalControl": [
-            "Imidacloprid",
-            "Buprofezin"
-        ]
-    },
-    {
-        "name": "Fruit Borer",
-        "image": "/assets/images/fruit-borer.jpg",
-        "effect": "Damages fruits and flowers in crops like tomato and brinjal",
-        "naturalControl": [
-            "Neem oil spray",
-            "Use light traps"
-        ],
-        "chemicalControl": [
-            "Chlorpyrifos",
-            "Cypermethrin"
-        ]
-    },
-    {
-        "name": "Stem Borer",
-        "image": "/assets/images/stem-borer.jpg",
-        "effect": "Bores into stems causing dead hearts in rice and sugarcane",
-        "naturalControl": [
-            "Use pheromone traps",
-            "Encourage natural predators like wasps"
-        ],
-        "chemicalControl": [
-            "Carbofuran",
-            "Quinalphos"
-        ]
-    },
-    {
-        "name": "Aphids",
-        "image": "/assets/images/aphids.jpg",
-        "effect": "Suck sap and transmit viral diseases in crops like mustard and chili",
-        "naturalControl": [
-            "Introduce ladybugs",
-            "Spray soap solution"
-        ],
-        "chemicalControl": [
-            "Dimethoate",
-            "Malathion"
-        ]
-    },
-    {
-        "name": "Whitefly",
-        "image": "/assets/images/whitefly.jpg",
-        "effect": "Transmits leaf curl virus and causes yellowing of leaves",
-        "naturalControl": [
-            "Yellow sticky traps",
-            "Neem oil"
-        ],
-        "chemicalControl": [
-            "Thiamethoxam",
-            "Acetamiprid"
-        ]
-    },
-    {
-        "name": "Cutworm",
-        "image": "/assets/images/cutworm.jpg",
-        "effect": "Cuts young seedlings at the base, especially in vegetables",
-        "naturalControl": [
-            "Plough soil before sowing",
-            "Apply neem cake"
-        ],
-        "chemicalControl": [
-            "Chlorpyrifos",
-            "Carbaryl"
-        ]
-    },
-    {
-        "name": "Armyworm",
-        "image": "/assets/images/armyworm.jpg",
-        "effect": "Feeds in groups on leaves of maize and millet, causing defoliation",
-        "naturalControl": [
-            "Early planting",
-            "Biological control using parasitoids"
-        ],
-        "chemicalControl": [
-            "Lambda-cyhalothrin",
-            "Spinosad"
-        ]
-    },
-    {
-        "name": "Red Spider Mite",
-        "image": "/assets/images/red-spider-mite.jpg",
-        "effect": "Sucks cell sap from leaves causing yellowing and webbing",
-        "naturalControl": [
-            "Water spraying to dislodge mites",
-            "Introduce predatory mites"
-        ],
-        "chemicalControl": [
-            "Dicofol",
-            "Fenpyroximate"
-        ]
-    },
-    {
-        "name": "Root-knot Nematode",
-        "image": "/assets/images/root-knot-nematode.jpg",
-        "effect": "Causes root galls leading to stunted growth in vegetables",
-        "naturalControl": [
-            "Crop rotation with cereals",
-            "Apply neem cake"
-        ],
-        "chemicalControl": [
-            "Carbofuran",
-            "Phorate"
-        ]
-    },
-    {
-        "name": "Mealybug",
-        "image": "/assets/images/mealybug.jpg",
-        "effect": "Sucks sap and weakens plant, secreting honeydew that causes mold",
-        "naturalControl": [
-            "Release Cryptolaemus beetles",
-            "Use alcohol-soaked swabs"
-        ],
-        "chemicalControl": [
-            "Imidacloprid",
-            "Malathion"
-        ]
-    }
+  {
+    "name": "Brown Planthopper",
+    "image": "/pest_control/Brown_Planthopper.jpg",
+    "effect": "Sucks sap from rice causing hopper burn",
+    "naturalControl": ["Avoid over-fertilization", "Encourage spiders"],
+    "chemicalControl": ["Imidacloprid", "Buprofezin"]
+  },
+  {
+    "name": "Fruit Borer",
+    "image": "/pest_control/Fruit Borer.webp",
+    "effect": "Damages fruits and flowers in crops like tomato and brinjal",
+    "naturalControl": ["Neem oil spray", "Use light traps"],
+    "chemicalControl": ["Chlorpyrifos", "Cypermethrin"]
+  },
+  {
+    "name": "Stem Borer",
+    "image": "/pest_control/Stem_Borer.jpg",
+    "effect": "Bores into stems causing dead hearts in rice and sugarcane",
+    "naturalControl": [
+      "Use pheromone traps",
+      "Encourage natural predators like wasps"
+    ],
+    "chemicalControl": ["Carbofuran", "Quinalphos"]
+  },
+  {
+    "name": "Aphids",
+    "image": "/pest_control/Aphids.webp",
+    "effect": "Suck sap and transmit viral diseases in crops like mustard and chili",
+    "naturalControl": ["Introduce ladybugs", "Spray soap solution"],
+    "chemicalControl": ["Dimethoate", "Malathion"]
+  },
+  {
+    "name": "Whitefly",
+    "image": "/pest_control/Whitefly.webp",
+    "effect": "Transmits leaf curl virus and causes yellowing of leaves",
+    "naturalControl": ["Yellow sticky traps", "Neem oil"],
+    "chemicalControl": ["Thiamethoxam", "Acetamiprid"]
+  },
+  {
+    "name": "Cutworm",
+    "image": "/pest_control/Cutworm.jpeg",
+    "effect": "Cuts young seedlings at the base, especially in vegetables",
+    "naturalControl": ["Plough soil before sowing", "Apply neem cake"],
+    "chemicalControl": ["Chlorpyrifos", "Carbaryl"]
+  },
+  {
+    "name": "Armyworm",
+    "image": "/pest_control/Armyworm.jpg",
+    "effect": "Feeds in groups on leaves of maize and millet, causing defoliation",
+    "naturalControl": [
+      "Early planting",
+      "Biological control using parasitoids"
+    ],
+    "chemicalControl": ["Lambda-cyhalothrin", "Spinosad"]
+  },
+  {
+    "name": "Red Spider Mite",
+    "image": "/pest_control/Red_Spider_Mite.jpg",
+    "effect": "Sucks cell sap from leaves causing yellowing and webbing",
+    "naturalControl": [
+      "Water spraying to dislodge mites",
+      "Introduce predatory mites"
+    ],
+    "chemicalControl": ["Dicofol", "Fenpyroximate"]
+  },
+  {
+    "name": "Root-knot Nematode",
+    "image": "/pest_control/Root-knot_Nematode.jpg",
+    "effect": "Causes root galls leading to stunted growth in vegetables",
+    "naturalControl": ["Crop rotation with cereals", "Apply neem cake"],
+    "chemicalControl": ["Carbofuran", "Phorate"]
+  },
+  {
+    "name": "Mealybug",
+    "image": "/pest_control/Mealybug.jpg",
+    "effect": "Sucks sap and weakens plant, secreting honeydew that causes mold",
+    "naturalControl": [
+      "Release Cryptolaemus beetles",
+      "Use alcohol-soaked swabs"
+    ],
+    "chemicalControl": ["Imidacloprid", "Malathion"]
+  }
 ]
