@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "How to Grow Organic Vegetables",
+    "summary": "Learn the basics of growing healthy organic vegetables with minimal effort.",
+    "image": "/how-to-grow-organic.jpg",
+    "sections": [
+      {
+        "title": "1. Site Selection and Planning",
+        "content": [
+          "Sunlight: Most vegetables need at least 6–8 hours of direct sunlight daily.",
+          "Drainage: Choose a well-drained area where water doesn't puddle after heavy rains. Avoid low spots prone to frost or steep slopes with erosion potential.",
+          "Water Source: Ensure easy access to a water source for irrigation during dry periods.",
+          "Avoid Black Walnut Trees: These trees release chemicals (juglones) that can inhibit the growth of many vegetables.",
+          "Start Small: If you're a beginner, begin with a manageable size (e.g., 50–100 square feet per person).",
+          "Choose Suitable Plants: Select vegetables that thrive in your climate. Consider bush varieties for vining plants.",
+          "Garden Layout: Place taller plants on the north side to avoid shading shorter ones. Group plants with similar water needs."
+        ]
+      },
+      {
+        "title": "2. Soil Preparation",
+        "content": [
+          "Clear the Area: Remove all weeds, unwanted plants, rocks, and debris.",
+          "Don't Overwork the Soil: Avoid excessive tilling and work when the soil feels like a wrung-out sponge.",
+          "Add Organic Matter: Incorporate 2–4 inches of compost, aged manure, leaf mold, or green manures.",
+          "Nutrient Boost: Add dry organic fertilizers like bone meal, blood meal, or kelp meal.",
+          "Mulch: Apply a 2–3 inch layer of mulch (straw, leaves, chemical-free grass clippings).",
+          "Soil Testing: Helps determine pH levels and nutrient deficiencies for precise amendments."
+        ]
+      },
+      {
+        "title": "3. Organic Fertilization",
+        "content": [
+          "Compost: Backbone of organic fertilization, adds nutrients and improves soil.",
+          "Manure: Use well-aged animal manure to prevent plant burn.",
+          "Seaweed/Kelp Meal: Source of key nutrients and trace elements.",
+          "Bone Meal: High in phosphorus and calcium.",
+          "Blood Meal: Natural nitrogen source for leafy growth.",
+          "Coffee Grounds: Slightly acidic and nitrogen-rich.",
+          "Worm Castings: Rich in nutrients and beneficial microbes.",
+          "Homemade Options: Compost teas, leftover cooking water, crushed eggshells."
+        ]
+      },
+      {
+        "title": "4. Pest and Disease Management",
+        "content": [
+          "Healthy Soil & Plants: Strong plants are naturally pest resistant.",
+          "Crop Rotation: Prevents buildup of soil-borne pests and diseases.",
+          "Companion Planting: Basil with tomatoes, marigolds, garlic, nasturtiums for pest control.",
+          "Hand Picking: Remove large pests by hand and dispose in soapy water.",
+          "Physical Barriers: Use row covers, nets, and copper tape.",
+          "Attract Beneficial Insects: Plant flowers that attract ladybugs, lacewings, and wasps.",
+          "Natural Sprays: Neem oil, insecticidal soap, garlic spray, Bt, and diatomaceous earth.",
+          "Sanitation: Remove diseased materials and avoid overhead watering."
+        ]
+      },
+      {
+        "title": "5. Watering",
+        "content": [
+          "Deep and Infrequent: Encourages deep root growth.",
+          "Consistency: Avoid extreme fluctuations in soil moisture.",
+          "Early Morning: Water early to prevent fungal problems.",
+          "Check Soil Moisture: Water when soil feels dry a few inches down."
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "content": [
+          "By following these principles, you can create a thriving organic vegetable garden that provides healthy, delicious produce while nurturing the environment."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Soil Preparation Tips",
+    "summary": "Proper soil preparation is key to a successful harvest. Here’s how to do it right.",
+    "image": "/Soil-prep.jpg",
+    "sections": [
+      {
+        "title": "1. Clear the Area",
+        "content": [
+          "Remove all weeds, unwanted plants, rocks, and debris from the planting area.",
+          "For persistent weeds, use solarization—cover the soil with clear plastic to kill seeds with heat.",
+          "Avoid using chemical herbicides to maintain organic integrity."
+        ]
+      },
+      {
+        "title": "2. Avoid Overworking the Soil",
+        "content": [
+          "Do not excessively till the soil, which can harm beneficial microbes and structure.",
+          "Only work the soil when it feels like a wrung-out sponge—too dry or too wet can cause damage."
+        ]
+      },
+      {
+        "title": "3. Add Organic Matter",
+        "content": [
+          "Incorporate 2–4 inches of high-quality compost, aged manure, or leaf mold.",
+          "Organic matter improves soil texture, aeration, and nutrient-holding capacity.",
+          "Use green manures like clover or fava beans and till them into the soil before planting."
+        ]
+      },
+      {
+        "title": "4. Boost Nutrients Naturally",
+        "content": [
+          "Use bone meal for phosphorus and root development.",
+          "Apply blood meal for nitrogen to support leafy growth.",
+          "Add kelp meal for trace minerals and plant immunity.",
+          "Crushed eggshells can provide calcium to prevent blossom end rot."
+        ]
+      },
+      {
+        "title": "5. Apply Mulch",
+        "content": [
+          "After soil preparation, apply a 2–3 inch layer of mulch like straw, leaves, or untreated grass clippings.",
+          "Mulch helps retain moisture, suppress weeds, and adds organic matter as it decomposes."
+        ]
+      },
+      {
+        "title": "6. Conduct a Soil Test (Optional)",
+        "content": [
+          "A soil test can reveal pH levels and nutrient deficiencies.",
+          "Use results to tailor amendments and optimize plant health."
+        ]
+      },
+      {
+        "title": "7. Let Soil Settle",
+        "content": [
+          "Allow the soil to rest for 1–2 weeks after preparation to stabilize microbial activity.",
+          "During this time, moisture and decomposition will activate nutrients for upcoming crops."
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "content": [
+          "With proper preparation, your soil will become a living, nutrient-rich base that supports vigorous, productive vegetable growth season after season."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Water Management for Crops",
+    "summary": "Efficient irrigation strategies to conserve water and boost crop yield.",
+    "image": "/water-management-for-crops.png",
+    "sections": [
+      {
+        "title": "1. Understand Plant Water Needs",
+        "content": [
+          "Different crops have varying water requirements—leafy greens typically need more water than root vegetables.",
+          "Consider growth stage: seedlings and fruiting plants often need more frequent watering."
+        ]
+      },
+      {
+        "title": "2. Water Deeply and Infrequently",
+        "content": [
+          "Deep watering encourages plants to develop deeper roots, making them more drought-resistant.",
+          "Avoid shallow, frequent watering which keeps roots near the surface and vulnerable to heat."
+        ]
+      },
+      {
+        "title": "3. Best Time to Water",
+        "content": [
+          "Water early in the morning to reduce evaporation and give foliage time to dry, minimizing fungal diseases.",
+          "Avoid watering in the evening, especially in humid areas, to prevent mildew and rot."
+        ]
+      },
+      {
+        "title": "4. Check Soil Moisture",
+        "content": [
+          "Use your finger or a soil moisture meter to test moisture 2–4 inches below the surface.",
+          "Water only when the soil feels dry at this depth to prevent overwatering."
+        ]
+      },
+      {
+        "title": "5. Use Mulch to Retain Moisture",
+        "content": [
+          "Apply a 2–3 inch layer of organic mulch (like straw or shredded leaves) to reduce evaporation.",
+          "Mulch also suppresses weeds that compete for water and regulates soil temperature."
+        ]
+      },
+      {
+        "title": "6. Employ Efficient Irrigation Methods",
+        "content": [
+          "Drip irrigation delivers water directly to the base of plants, reducing waste and leaf wetness.",
+          "Soaker hoses are ideal for evenly watering garden beds.",
+          "Avoid overhead sprinklers when possible—they waste water and promote disease on foliage."
+        ]
+      },
+      {
+        "title": "7. Collect and Use Rainwater",
+        "content": [
+          "Set up rain barrels to collect water from rooftops for irrigation during dry spells.",
+          "Rainwater is free of chemicals and ideal for organic gardens."
+        ]
+      },
+      {
+        "title": "8. Prevent Runoff and Erosion",
+        "content": [
+          "Contour your garden beds and use swales or berms to slow water and improve absorption.",
+          "Avoid watering too quickly—allow time for soil to absorb water between sessions."
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "content": [
+          "Smart water management supports plant health, reduces disease, and conserves resources. By following these organic principles, you'll ensure a productive and sustainable garden."
+        ]
+      }
+    ]
+  }
+]

@@ -1,10 +1,20 @@
 <header class="bg-green-600 text-white shadow-md sticky top-0 z-50">
   <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
-    <h1 class="text-xl font-bold">AgriInfo Hub</h1>
+    <a
+      data-aos="fade-right"
+      data-aos-delay="200"
+      routerLink="/"
+      routerLinkActive="font-bold text-yellow-300"
+      class="relative group text-xl font-bold hover:text-yellow-200 transition px-2"
+    >
+      AgriInfo Hub
+    </a>
 
     <!-- Desktop nav -->
     <nav class="hidden md:flex gap-6 text-sm">
       <a
+        data-aos="fade-left"
+        data-aos-delay="200"
         routerLink="/"
         routerLinkActive="font-bold text-yellow-300"
         class="relative group font-semibold hover:text-yellow-200 transition px-2"
@@ -16,6 +26,8 @@
       </a>
 
       <a
+        data-aos="fade-left"
+        data-aos-delay="250"
         routerLink="/farming-guides"
         routerLinkActive="font-bold text-yellow-300"
         class="relative group font-semibold hover:text-yellow-200 transition px-2"
@@ -27,6 +39,8 @@
       </a>
 
       <a
+        data-aos="fade-left"
+        data-aos-delay="300"
         routerLink="/crop-details"
         routerLinkActive="font-bold text-yellow-300"
         class="relative group font-semibold hover:text-yellow-200 transition px-2"
@@ -38,6 +52,8 @@
       </a>
 
       <a
+        data-aos="fade-left"
+        data-aos-delay="350"
         routerLink="/pest-control"
         routerLinkActive="font-bold text-yellow-300"
         class="relative group font-semibold hover:text-yellow-200 transition px-2"
@@ -49,6 +65,8 @@
       </a>
 
       <a
+        data-aos="fade-left"
+        data-aos-delay="400"
         routerLink="/contact"
         routerLinkActive="font-bold text-yellow-300"
         class="relative group font-semibold hover:text-yellow-200 transition px-2"
@@ -79,29 +97,42 @@
   </div>
 
   <!-- Mobile nav -->
-  <div *ngIf="isMenuOpen" class="md:hidden bg-green-900 px-4 pb-4 space-y-2">
-    <a routerLink="/" routerLinkActive="font-bold text-yellow-300" class="block"
+  <div *ngIf="isMenuOpen" class="md:hidden bg-green-450 px-4 pb-4 space-y-2">
+    <a
+      data-aos="fade-left"
+      data-aos-delay="200"
+      routerLink="/"
+      routerLinkActive="font-bold  text-yellow-300"
+      class="block"
       >Home</a
     >
     <a
+      data-aos="fade-left"
+      data-aos-delay="250"
       routerLink="/farming-guides"
       routerLinkActive="font-bold text-yellow-300"
       class="block"
       >Farming Guides</a
     >
     <a
+      data-aos="fade-left"
+      data-aos-delay="300"
       routerLink="/crop-details"
       routerLinkActive="font-bold text-yellow-300"
       class="block"
       >Crop Details</a
     >
     <a
+      data-aos="fade-left"
+      data-aos-delay="350"
       routerLink="/pest-control"
       routerLinkActive="font-bold text-yellow-300"
       class="block"
       >Pest Control</a
     >
     <a
+      data-aos="fade-left"
+      data-aos-delay="400"
       routerLink="/contact"
       routerLinkActive="font-bold text-yellow-300"
       class="block"
